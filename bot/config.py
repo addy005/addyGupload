@@ -6,8 +6,8 @@ class config:
     SUDO_USERS = "1997034588 2033053024" # Sepearted by space.
     SUPPORT_CHAT_LINK = "https://t.me/legend_exe"
     DOWNLOAD_DIRECTORY = "./downloads/"
-    G_DRIVE_CLIENT_ID = "36493824362-1f3mf6um9kpukn69kuv5c3777qi3iq3d.apps.googleusercontent.com"
-    G_DRIVE_CLIENT_SECRET = "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"
+    G_DRIVE_CLIENT_ID = ""
+    G_DRIVE_CLIENT_SECRET = ""
 
 
 class BotCommands:
