@@ -1,13 +1,13 @@
 class config:
-    BOT_TOKEN = ""
-    APP_ID = ""
-    API_HASH = ""
-    DATABASE_URL = ""
-    SUDO_USERS = "" # Sepearted by space.
-    SUPPORT_CHAT_LINK = ""
+    BOT_TOKEN = "5434981847:AAGyJVf-3C3_3TFYDMS803WVeaMw6XIU0h4"
+    APP_ID = "13984782"
+    API_HASH = "5bfc2352c4e6c6365bfa1b9050ca534b"
+    DATABASE_URL = "postgres://wukcaflmkhhvrf:0d233dac99b4f7f968f6cf4c7d5bad53431b39f2862b7aea7f257362f1f6c72c@ec2-107-22-238-112.compute-1.amazonaws.com:5432/d4sa4i3q6v9hdi"
+    SUDO_USERS = "1997034588 2033053024" # Sepearted by space.
+    SUPPORT_CHAT_LINK = "https://t.me/legend_exe"
     DOWNLOAD_DIRECTORY = "./downloads/"
-    G_DRIVE_CLIENT_ID = ""
-    G_DRIVE_CLIENT_SECRET = ""
+    G_DRIVE_CLIENT_ID = "381099184040-1nlupj33em1gp1f5267qbf5eos35juud.apps.googleusercontent.com"
+    G_DRIVE_CLIENT_SECRET = "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"
 
 
 class BotCommands:
